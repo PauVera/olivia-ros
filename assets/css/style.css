@@ -23,3 +23,13 @@ h5{
     height: 18rem;
     object-fit:cover; /*la parte de la imagen que se muestra corresponde al tamaño del contenedor*/
 }
+
+.carousel-indicators {
+    top : 50px ;
+}
+
+.carousel-indicators li {
+    width : 10px ;
+    height : 10px ;
+    border-radius : 50% ;
+}
