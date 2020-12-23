@@ -26,5 +26,8 @@ $(function(){
         }//fin else
     }); 
     //habilita tooltips
-    $('[data-toggle="tooltip"]').tooltip()
+    $('[data-toggle="tooltip"]').tooltip();
+
+    //habilita popovers
+    $('[data-toggle="popover"]').popover();
 });

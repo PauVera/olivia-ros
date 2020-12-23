@@ -25,11 +25,11 @@ h5{
 }
 
 .carousel-indicators {
-    top: 50px ;
+    top: 50px;
 }
 
-.carousel-indicators li {
-    width: 1rem;
-    height: 1rem;
+.carousel-indicators li{
+    width: 0.625rem!important;
+    height: 0.625rem!important;
     border-radius: 50%;
 }
